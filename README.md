@@ -1,5 +1,20 @@
 I'm an 𝑨𝑾𝑺 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 Full Stack Developer, with a solid grip over Desktop Apps, Web Apps (Frontend), and Web APIs (Backend), Data Processing, Mobile Apps and much more to tech companies all around the world in the technologies such as C#, PHP, Laravel, Java, Python, Shopify, and NodeJS working for over 12 years with eminent startups and enterprises in collaborative teams using Agile Methods {​​​​​Scrum/Sprint}​​​​​.
 
+My expertise zone:
+🚀 React.js/Next.js and its ecosystem including Redux/MobX
+
+🚀 Node.js (Nest.js) and Typescript to design and develop server-side solutions.
+
+🚀 Database Management [MySQL, MongoDB, PostgreSQL]
+
+🚀 Python/Django/Flask, Flutter/Dart, AWS/GCP/Azure, Microservices
+
+🚀 API Integrations {​​​​​GraphQL/REST}​​​​​, Third-party services, Material-UI, Tailwind CSS
+
+🚀 SOLID/KISS/DRY principles, Bug Fixing, and implementing new features
+
+🚀 Docker and Kubernetes (k8s), Jenkins for CI/CD, GitHub/GitLab/BitBucket
+
 🧠 Expert in AI & Machine Learning: Bringing cutting-edge AI solutions to life.
 
 📱 Flutter & React: Creating intuitive, responsive, and beautiful applications.
@@ -20,22 +35,6 @@ Distinct Skills and Experience:
 🌐 Client-Centric Solutions: Tailored AI-driven products and sophisticated app development.
 
 🧩 Adaptive Problem-Solving: Tackling tech challenges with strategic insights.
-
-Client Accolades:
-My expertise zone:
-🚀 React.js/Next.js and its ecosystem including Redux/MobX
-
-🚀 Node.js (Nest.js) and Typescript to design and develop server-side solutions.
-
-🚀 Database Management [MySQL, MongoDB, PostgreSQL]
-
-🚀 Python/Django/Flask, Flutter/Dart, AWS/GCP/Azure, Microservices
-
-🚀 API Integrations {​​​​​GraphQL/REST}​​​​​, Third-party services, Material-UI, Tailwind CSS
-
-🚀 SOLID/KISS/DRY principles, Bug Fixing, and implementing new features
-
-🚀 Docker and Kubernetes (k8s), Jenkins for CI/CD, GitHub/GitLab/BitBucket
 
 📈 𝑵𝒐𝒕𝒂𝒃𝒍𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔;
 1- "Large-scale Healthcare Platform" that allowed users to track their health records, set appointments, and receive reminders
