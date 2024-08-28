@@ -1,7 +1,9 @@
 I'm an 𝑨𝑾𝑺 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 Full Stack Developer, with a solid grip over Desktop Apps, Web Apps (Frontend), and Web APIs (Backend), Data Processing, Mobile Apps and much more to tech companies all around the world in the technologies such as C#, PHP, Laravel, Java, Python, Shopify, and NodeJS working for over 12 years with eminent startups and enterprises in collaborative teams using Agile Methods {​​​​​Scrum/Sprint}​​​​​.
 🧠 Expert in AI & Machine Learning: Bringing cutting-edge AI solutions to life.
+
 📱 Flutter & React: Creating intuitive, responsive, and beautiful applications.
 🌟 Proven Success: A track record of 50+ high-impact projects.
+
 🎯 Detail-Oriented Approach: Precision and excellence in every project.
 🗣️ Effective Communication: Keeping you in the loop, every step of the way.
 🛠️ Simplifying Technology: Breaking down complex tech into user-friendly solutions.
